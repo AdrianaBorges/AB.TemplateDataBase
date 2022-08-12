@@ -1,0 +1,14 @@
+C:\Adriana.Borges\GIT\Data\Data.Base\bin\Debug\Data.Base.XML
+C:\Adriana.Borges\GIT\Data\Data.Base\bin\Debug\Data.Base.dll
+C:\Adriana.Borges\GIT\Data\Data.Base\bin\Debug\Data.Base.pdb
+C:\Adriana.Borges\GIT\Data\Data.Base\obj\Debug\AB.TemplateDataBase.csproj.AssemblyReference.cache
+C:\Adriana.Borges\GIT\Data\Data.Base\obj\Debug\AB.TemplateDataBase.csproj.CoreCompileInputs.cache
+C:\Adriana.Borges\GIT\Data\Data.Base\obj\Debug\Data.Base.dll
+C:\Adriana.Borges\GIT\Data\Data.Base\obj\Debug\Data.Base.pdb
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\bin\Debug\Data.Base.XML
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\bin\Debug\Data.Base.dll
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\bin\Debug\Data.Base.pdb
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\obj\Debug\AB.TemplateDataBase.csproj.AssemblyReference.cache
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\obj\Debug\AB.TemplateDataBase.csproj.CoreCompileInputs.cache
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\obj\Debug\Data.Base.dll
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBase\obj\Debug\Data.Base.pdb

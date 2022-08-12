@@ -1,0 +1,16 @@
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\bin\Debug\Data.BaseMySql.dll
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\bin\Debug\Data.BaseMySql.pdb
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\bin\Debug\MySql.Data.dll
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\obj\Debug\AB.TemplateDataBaseMySql.csproj.AssemblyReference.cache
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\obj\Debug\AB.TemplateDataBaseMySql.csproj.CoreCompileInputs.cache
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\obj\Debug\AB.TemplateDataBaseMySql.csproj.CopyComplete
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\obj\Debug\Data.BaseMySql.dll
+C:\Adriana.Borges\GIT\Data\Data.BaseMySql\obj\Debug\Data.BaseMySql.pdb
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\bin\Debug\Data.BaseMySql.dll
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\bin\Debug\Data.BaseMySql.pdb
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\bin\Debug\MySql.Data.dll
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\obj\Debug\AB.TemplateDataBaseMySql.csproj.AssemblyReference.cache
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\obj\Debug\AB.TemplateDataBaseMySql.csproj.CoreCompileInputs.cache
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\obj\Debug\AB.TemplateDataBaseMySql.csproj.CopyComplete
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\obj\Debug\Data.BaseMySql.dll
+C:\Adriana.Borges\GIT\AB.TemplateDataBase\AB.TemplateDataBaseMySql\obj\Debug\Data.BaseMySql.pdb
